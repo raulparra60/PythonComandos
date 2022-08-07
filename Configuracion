@@ -1,0 +1,18 @@
+pip install pandas
+
+Luego se digita Python
+import pandas as pd
+
+verificar la version de pandas
+
+pd.__version__
+
+Para verificar que paquetes estan instalados
+pip freeze
+
+Para instalar jupiter
+
+pip install jupiter
+
+Para entrar el bloc notas python
+python -m notebook
